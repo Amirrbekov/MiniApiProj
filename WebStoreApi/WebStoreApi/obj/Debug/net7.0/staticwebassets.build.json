@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0X+vlRQAzdg4wHeMk39/nlz/9lba0/BHuizbdWMGOoo=",
+  "Source": "WebStoreApi",
+  "BasePath": "_content/WebStoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

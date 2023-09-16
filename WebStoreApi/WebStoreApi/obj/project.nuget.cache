@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XzAMckXY2EnF3Uw3kkH/ZA4BTjGwO2CP7QIx3Z0SwyB3wcqCOSUTZ2biLzGvPWaMIHDLTST1NrYiKKI+DNfZow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amirb\\Desktop\\MiniApiProj\\WebStoreApi\\WebStoreApi\\WebStoreApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amirb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\amirb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\amirb\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\amirb\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\amirb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\amirb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\amirb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
