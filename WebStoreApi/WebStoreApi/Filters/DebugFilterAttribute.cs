@@ -16,5 +16,4 @@ public class DebugFilterAttribute : Attribute, IActionFilter
         TimeSpan time = DateTime.Now - reference;
         Console.WriteLine("[DebugFilterAttribute] OnActionExecuted - Time: " + time.TotalMilliseconds + "ms");
     }
-
 }
