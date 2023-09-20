@@ -74,3 +74,11 @@ C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\obj\Debug\net7.0\re
 C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\obj\Debug\net7.0\BestStoreApi.pdb
 C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\obj\Debug\net7.0\BestStoreApi.genruntimeconfig.cache
 C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\obj\Debug\net7.0\ref\BestStoreApi.dll
+C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\bin\Debug\net7.0\BestStoreApi.staticwebassets.runtime.json
+C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\bin\Debug\net7.0\SendGrid.dll
+C:\Users\amirb\Desktop\MiniApiProj\BestStoreApi\BestStoreApi\bin\Debug\net7.0\StarkbankEcdsa.dll
